@@ -1,0 +1,10 @@
+git commands
+   1 git checkout master //change branch
+   2 git checkout -b develop // create new branch
+   3 git checkout -b gillian
+   4
+   5 git status //check git status
+   6 git add . //add changes
+   7 git commit -m 'test' //
+   8 git push //to push changes
+   9 git push -u origin gillian // push to new branch
